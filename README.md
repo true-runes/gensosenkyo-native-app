@@ -1,2 +1,2 @@
-# gensosenkyo-native-app
-幻水総選挙のスマートフォンアプリ
+# Gensosenkyo Native App
+- 幻水総選挙のスマートフォンアプリ
